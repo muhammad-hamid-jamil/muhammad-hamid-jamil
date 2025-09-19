@@ -20,7 +20,7 @@ Based in Lahore, Pakistan. Currently Frontend / Full Stack Web Developer at Webs
 
 ---
 
-## 💼 Experience (short)
+## 💼 Experience
 **Websol Solutions** — Frontend / Full Stack Web Developer (08/2023 – Present)  
 Built & maintained 15+ sites (WordPress, Shopify headless), React frontends, API integrations and performance improvements. 
 
